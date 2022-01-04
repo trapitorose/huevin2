@@ -1,0 +1,226 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+html 
+{
+    font-size: 62.5%;
+    background-color: #192231;
+}
+
+.body
+{
+    display: flex;
+}
+
+.header_div_nav_p
+{
+    background-color: pink;
+    font-size: 1.3rem;
+}
+
+.header_div_nav
+{
+    text-align: center;
+    width: 100vw;
+    height: 5vh;
+}
+
+.nav_ul li
+{
+    display: inline-block;
+    color: pink;
+}
+
+.nav_ul 
+{
+    background-color: #494e6b;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.nav_ul a 
+{
+    color: white;
+   
+}
+
+.header_div_ul_li a:hover
+{
+    color: palevioletred;
+}
+
+.imagen
+{
+    display: flex;
+    justify-content: center;
+}
+
+.huevito
+{
+    width: 30rem;
+    height: 13rem;
+}
+
+.div_p
+{
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    margin-top: 2rem;
+}
+
+.div
+{
+    display: flex;
+    justify-content: center;  
+}
+
+.div_div_marco
+{
+    background-color: #494e6b;
+    width: 30rem;
+    height: 150rem;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;  
+}
+
+.div_div_ntf
+{
+    background-color: pink;
+    width: 25rem;
+    height: 140rem;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    display: flex;
+    justify-content: center;  
+}
+
+.contenido
+{
+    width: 22rem;
+    height: 10rem;    
+    margin-top: 2rem;
+    border-radius: 1rem;
+    flex-direction: column;
+}
+
+.descripcion, .precio
+{
+    font-size: 1.7rem;
+    text-align: center;
+    color: black;
+}
+
+.contenido2
+{
+    width: 22rem;
+    height: 10rem;    
+    margin-top: 2rem;
+    border-radius: 1rem;
+    flex-direction: column;
+}
+
+.descripcion2, .precio2
+{
+    font-size: 1.7rem;
+    text-align: center;
+    color: black;
+}
+
+.contenido3
+{
+    width: 22rem;
+    height: 10rem;    
+    margin-top: 2rem;
+    border-radius: 1rem;
+    flex-direction: column;
+}
+
+.descripcion3, .precio3
+{
+    font-size: 1.7rem;
+    text-align: center;
+    color: black;
+}
+
+.contenido4
+{
+    width: 22rem;
+    height: 10rem;    
+    margin-top: 2rem;
+    border-radius: 1rem;
+    flex-direction: column;
+}
+
+.descripcion4, .precio4
+{
+    font-size: 1.7rem;
+    text-align: center;
+    color: black;
+}
+
+.contenido5
+{
+    width: 22rem;
+    height: 10rem;    
+    margin-top: 2rem;
+    border-radius: 1rem;
+    flex-direction: column;
+}
+
+.descripcion5, .precio5
+{
+    font-size: 1.7rem;
+    text-align: center;
+    color: black;
+}
+
+.contenido6
+{
+    width: 22rem;
+    height: 10rem;    
+    margin-top: 2rem;
+    border-radius: 1rem;
+    flex-direction: column;
+}
+
+.descripcion6, .precio6
+{
+    font-size: 1.7rem;
+    text-align: center;
+    color: black;
+}
+
+.contenido7
+{
+    width: 22rem;
+    height: 10rem;    
+    margin-top: 2rem;
+    border-radius: 1rem;
+    flex-direction: column;
+}
+
+.descripcion7, .precio7
+{
+    font-size: 1.7rem;
+    text-align: center;
+    color: black;
+}
+
+.despedida
+{
+    font-size: 1.7rem;
+    color: black;
+    text-align: center;
+    margin-top: 2rem;
+}
